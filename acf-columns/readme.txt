@@ -3,14 +3,16 @@ Contributors: tmconnect
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=XMLKD8H84HXB4&lc=US&item_name=Donation%20for%20WordPress%20Plugins&no_note=0&cn=Add%20a%20message%3a&no_shipping=1&currency_code=EUR
 Tags: acf, acfpro, advanced custom fields, column
 Requires at least: 4.7
-Tested up to: 6.3
+Tested up to: 6.7.1
 Stable tag: 1.2.5
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
+With the ACF Columns plugin it is possible to arrange ACF fields in column groups in the post editor.
+
 == Description ==
 
-With the ACF Columns plugin it is possible to arrange ACF fields in column groups in the post editor
+With the ACF Columns plugin it is possible to arrange ACF fields in column groups in the post editor.
 
 **Conditional Logic can now be used over different columns with the new ACF 5.7**
 
